@@ -93,26 +93,56 @@ $30 monitor that turns out to be mediocre is not a mistake worth mourning.
 unused TV in a spare room. At 1080p over HDMI either works fine as a second screen
 on this laptop. Free beats every row in the table above, and costs one question.
 
-## Recommendation, in order
+## Settled 2026-08-12
 
-1. **Ask whether the household already has a spare monitor or an idle TV.** Zero
-   cost, and it settles the question in one conversation.
-2. **Otherwise: a refurbished 24″ Dell P-series (P2419H or similar), ~$70–90, with
-   its own ergonomic stand.** No separate mount, eye-level height solved in the
-   box, cheap enough to abandon without regret, and 2.4× the screen area of the
-   15.6″ plan at roughly half the price.
-3. **If new and hassle-free is preferred:** Dell SE2426H 24″ 1080p IPS at ~$76 plus
-   the [MOUNTUP freestanding stand](https://www.amazon.com/MOUNTUP-Single-Monitor-Stands-Adjustable/dp/B0875SL7VL)
-   at $22.99 — **$99**, 17.5″ of height travel, weighted base so nothing clamps to
-   furniture that is not the buyer's.
-4. **Only if storage or desk space genuinely forbids a 24″ panel** does the
-   15.6″ portable route come back into play, and then it is a
-   [native-VESA model](https://uperfect.com/products/uperfect-15-6-vesa-portable-monitor)
-   at $139.99 plus the same $22.99 stand — never a kickstand panel with a clamp
-   adapter bolted on.
+Three answers came back from the buyer and close the remaining questions:
 
-24″ is the size to aim at rather than 27″: it stores flat behind a wardrobe more
-easily, fits an unknown guest desk with less risk, and costs a third as much.
+- **No spare monitor at the property.** The free option is out.
+- **There is somewhere to store it.** The small-panel route, which only ever
+  survived on the storage constraint, is now closed for good.
+- **24″, not 21″.** The buyer's long-standing size is 21″, but that is in a
+  *three-monitor* desktop setup. Here a single panel carries the whole workload
+  alongside the laptop screen, so the extra area is worth having. This also lands
+  where the value is: 24″ refurbished business stock is the deepest, cheapest and
+  best-supported segment of the used market.
+
+## Recommendation
+
+**A refurbished 24″ Dell P-series — P2422H or P2419H — at $67–90.** Its own
+business-class stand gives 130 mm of height, tilt, swivel and pivot, so there is
+**no separate mount to buy, nothing to drill and nothing to clamp**, and it breaks
+down into a flat panel plus a flat base for the cabinet. See the stand section in
+[`mounting-approaches.md`](mounting-approaches.md).
+
+Verified pricing 2026-08-12:
+
+| Source | Condition | Price | Warranty |
+|---|---|---|---|
+| [PCLiquidations](https://www.pcliquidations.com/p139658-dell-p2422h-24-fhd) | Grade C (cosmetic only) | **$66.98** | 30-day returns |
+| eBay | Grade B | ~$69.99 | varies |
+| [DiscountPC](https://discountpc.com/products/dell-professional-24-p2422h-hd-monitor-grade-c) | Grade C | $89.99 | — |
+| Newegg | Refurb A | $107.99 | — |
+| [Reebelo](https://reebelo.com/collections/dell-p2422h-fhd-monitor-24-inch) | Very Good | $121.98 | **12 months** |
+
+Grades are **cosmetic only** — every unit is restored to full function — so Grade C
+at $67 is the value pick unless scuffs on a bezel would bother someone. Reebelo's
+12-month warranty is the one genuine differentiator at the top of the range, but at
+15 days of use a year it is not worth $55.
+
+**Worth a look before committing: 16:10.** The Dell **P2423** (and current-gen
+**P2425**, no `H`) are 24″ **1920×1200** WUXGA with the same P-series stand — 11%
+more vertical pixels than 1080p, which matters on a single screen doing the work of
+three. Watch the model naming: `P2425H` is 16:9 1080p while `P2425` is 16:10
+WUXGA. **Check the resolution field, not the model number.**
+
+New alternatives, if refurbished is unappealing: Lenovo ThinkVision **T24i-30** at
+~$195 (155 mm lift, the tallest stand found here, though stock was thin at that
+price on 2026-08-12), or Dell **P2425H** at 100 Hz. Both cost 2–3× the refurb for
+the same ergonomics.
+
+**Not** the Dell SE2426H route from the earlier draft: at $76 plus a $23 stand it
+lands at $99 for a tilt-only panel on an aftermarket pole, which is more money and
+a worse mount than a $67 P2422H.
 
 ## On the second location
 

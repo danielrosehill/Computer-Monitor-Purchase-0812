@@ -52,18 +52,31 @@ below either port is fine. Source: Lenovo PSREF, checked 2026-08-12.
   monitor at portable prices); 19″ costs more than 24″ for a worse panel; 27″
   triples the cost and complicates storage and an unknown guest desk.
 
+## Closed 2026-08-12
+
+- **No spare monitor or idle TV at the property.** The zero-cost option is out.
+- **Storage space exists.** This was the last constraint that could have justified
+  a small panel; it does not apply, so the small-panel route is closed.
+- **Size: 24″, confirmed.** The buyer's habitual size is 21″, but that is across a
+  three-monitor desktop. A single panel doing that job alongside the laptop screen
+  warrants the extra area.
+- **Mounting hardware: none required.** Business-line monitors (Dell P/U, Lenovo
+  ThinkVision T/P, HP E/Z) ship a four-way stand — height in mm, tilt, swivel,
+  pivot — as standard. This satisfies eye level, no-drill, no-clamp *and*
+  disassembly-for-storage in one purchase.
+- **Screening rule for listings:** height adjustment quoted in millimetres, and the
+  word "pivot". Listings that say only "tilt adjustable" are tilt-only. Price is
+  not a signal — a $200 gaming SKU is often tilt-only, a $67 refurb P-series is not.
+
 ## Explicitly not decided
 
-Resolution and panel technology — both largely settled by picking a channel, since
-refurbished business stock is overwhelmingly 1080p or 1920×1200 IPS.
+Resolution — 1080p versus 1920×1200 16:10 — and it is worth a few dollars to get
+the latter. Panel technology is settled by the channel: refurbished business stock
+is overwhelmingly IPS.
 
-Budget was never given as a number, but the analysis in
+Budget was never given as a number, and the analysis in
 [`research/value-analysis.md`](../research/value-analysis.md) argues it does not
 need to be: the whole viable range is $30–290, or $1–3 per day of use.
-
-**One question still open and it is the only one that flips the answer:** where the
-monitor is stored for the eleven months between visits. If a 24″ panel has nowhere
-to live, the small-panel route returns.
 
 ## Notes to carry into research
 

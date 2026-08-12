@@ -20,19 +20,24 @@ The usage pattern then sharpened it further: **~15 working days a year**, one
 visit, one destination. At that intensity the whole decision spans $30–290, or
 $1–3 per day of use — too small a spread to be worth optimising for price.
 
-**Current recommendation:** first ask whether the household already has a spare
-monitor or an idle TV, because free beats everything. Failing that, a
-**refurbished 24″ Dell P-series, ~$70–90**, whose business-class stand supplies
-eye-level height in the box and makes a separate mount unnecessary. New and
-hassle-free alternative: Dell SE2426H + a $23 freestanding stand, $99.
+## Decision
 
-**Not** a 15.6″ panel — that size no longer exists as a desktop product, so
-"a cheap 15.6″ monitor" resolves to buying a portable monitor at portable prices,
-for a screen that never moves. Full working in
+**A refurbished 24″ Dell P-series (P2422H / P2419H), $67–90.**
+
+Its business-class stand gives 130 mm of height plus tilt, swivel and pivot, which
+means **no separate mount, no drilling, no clamping** — none of which were possible
+in a guest residence anyway — and it breaks down into a flat panel and a flat base
+for the cabinet between visits. Cheap enough that stranding it in Connecticut is a
+shrug.
+
+Worth checking for **16:10** while shopping: the Dell P2423 / P2425 are 24″
+1920×1200 with the same stand, 11% more vertical pixels. The naming is a trap —
+`P2425H` is 16:9, `P2425` is 16:10. Read the resolution, not the model number.
+
+**Not** a 15.6″ panel: that size no longer exists as a desktop product, so "a cheap
+15.6″ monitor" resolves to buying a portable monitor at portable prices for a
+screen that never moves. Full working in
 [`research/value-analysis.md`](research/value-analysis.md).
-
-One question remains open: **where it is stored between visits** — the only thing
-that would bring the small-panel route back.
 
 ## Repo map
 

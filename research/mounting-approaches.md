@@ -137,6 +137,69 @@ permission to grip (or drill) furniture that is not yours. Freestanding options
 verified: MOUNTUP ($22.99, 13–32″, 17.6 lb), Mount-It! (~$83, 21.5–32″), VIVO
 STAND-V011H (~$44, 13–27″), Monoprice (up to 27″, 13.2 lb).
 
+## The stand question: which monitors ship with a genuinely useful one
+
+Asked directly, because the usual experience is a monitor arriving on a tilt-only
+plastic wedge. **Yes — and it is an entire product line, not a lucky model.**
+
+The business/professional lines ship a full four-way stand as standard:
+
+| Line | Example | Height | Tilt | Swivel | Pivot |
+|---|---|---|---|---|---|
+| Dell **P**-series | P2422H | ~130 mm | −5°/21° | ±45° | ±90° |
+| Dell **P**-series (new) | P2425H | 14.33″–19.55″ (~130 mm) | yes | yes | yes |
+| Lenovo ThinkVision **T** | T24i-30 | **155 mm** | −5°/23.5° | ±45° | ±90° |
+| Dell **P**-series 22″ | P2222H / P2225H | **150 mm** | −5°/21° | ±45° | ±90° |
+| HP **E**-series | E24 G5 | comparable | yes | yes | yes |
+
+### How to spot one from a listing
+
+Price is **not** the signal — a $200 gaming monitor is often tilt-only while a $67
+refurbished P-series has the full mechanism. The reliable tells:
+
+- The spec sheet gives **height adjustment as a number in millimetres**. Consumer
+  listings say "tilt adjustable" and stop there — that phrasing means tilt-only.
+- **"Pivot"** or "portrait mode" appears. Pivot is only ever fitted to a stand that
+  also has height, because the panel must rise before it can rotate.
+- The model name carries a **business-line letter**: Dell **P** (Professional) or
+  **U** (UltraSharp), Lenovo ThinkVision **T** or **P**, HP **E** or **Z**.
+- Avoid Dell **E** and **S** series, and most gaming SKUs under ~$250 — tilt only.
+
+A monitor from these lines needs **no additional mounting hardware whatsoever**.
+The stand in the box does everything a $23 aftermarket stand would do, and does it
+better: 130–155 mm of travel against the MOUNTUP's 17.49″ of pole, but with the
+panel's weight properly counterbalanced rather than clamped to a pole.
+
+## Storage between visits — solved by the same choice
+
+The requirement is that everything fold into a cabinet for eleven months, with no
+drilling and no clamping. The business-stand route satisfies this without a
+single extra part:
+
+- **The stand is not attached at the factory.** Dell P-series monitors ship as
+  three separate pieces — panel, riser, weighted base — and are assembled by the
+  buyer. It goes back into that state on the way into the cabinet.
+- **The panel detaches by quick-release button**, exposing the VESA 100×100 pattern
+  underneath, so no tools are needed either way.
+- Stored, it is a flat 24″ panel plus a flat base and a short riser arm. That slides
+  behind or under almost anything.
+
+### If a tilt-only panel is bought anyway
+
+Ranked for this specific constraint — no drill, no clamp, must store away:
+
+| Stand | Price | Height travel | Stores how | Verdict |
+|---|---|---|---|---|
+| [MOUNTUP B0875SL7VL](https://www.amazon.com/MOUNTUP-Single-Monitor-Stands-Adjustable/dp/B0875SL7VL) | **$22.99** | **17.49″** | Unbolts to base + pole, both flat | Best of the three — most height for least money |
+| [Fellowes 8049601](https://www.staples.com/fellowes-professional-series-freestanding-single-monitor-arm-up-to-32-black-8049601/product_24403510) | ~$77 | arm-type, tall | Does **not** fold; bulky base | Built precisely for rooms that forbid clamps and grommets, but priced like the monitor |
+| [WEARSON WS-03T](https://www.amazon.com/Wearson-Folding-Monitor-Stand-Adjustable/dp/B08GWSCTL5) | $49.99 | **7″–11″ only** | **Folds flat, 115° → 0°** | The only true folding option, but it is a *low-profile* stand — it will not reach eye level and therefore fails the core requirement |
+
+The WS-03T is the trap in this category: it is the one that genuinely folds, which
+makes it look ideal for the cabinet, but 7–11 inches of pole is a riser, not an
+eye-level mount. Storability and height work against each other in this product
+class, which is another reason the built-in business stand wins — it is the only
+option that is tall *and* disassembles.
+
 ## Recommendation
 
 **Superseded — see [`value-analysis.md`](value-analysis.md).** The hardware
