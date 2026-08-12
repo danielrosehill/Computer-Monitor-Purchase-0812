@@ -106,43 +106,105 @@ Three answers came back from the buyer and close the remaining questions:
   where the value is: 24″ refurbished business stock is the deepest, cheapest and
   best-supported segment of the used market.
 
-## Recommendation
+## Buying decision: new, firsthand
 
-**A refurbished 24″ Dell P-series — P2422H or P2419H — at $67–90.** Its own
-business-class stand gives 130 mm of height, tilt, swivel and pivot, so there is
-**no separate mount to buy, nothing to drill and nothing to clamp**, and it breaks
-down into a flat panel plus a flat base for the cabinet. See the stand section in
-[`mounting-approaches.md`](mounting-approaches.md).
+**Stated by the buyer 2026-08-12 and it overrides the pure value ranking:** buy
+new. The reasoning is start from a known-good unit rather than trust someone
+else's account of an item's condition. That is a legitimate call and the analysis
+does not fight it — at 15 days of use a year the spread between $67 refurbished
+and $240 new is about **$2.30 per day of use**, which is exactly the kind of
+difference this document has argued throughout is too small to optimise.
 
-Verified pricing 2026-08-12:
+What buying new actually purchases here, beyond peace of mind:
+
+- **A real warranty.** Dell P-series carries **3 years Basic Hardware Service with
+  Advanced Exchange**. Against refurbished terms of 30–90 days, this is the one
+  place the money buys something concrete — and it matters more than usual for a
+  device sitting unattended in another country for eleven months at a stretch.
+- **No grading lottery.** Refurb "Grade C" is cosmetic-only in theory; in practice
+  it is a stranger's judgement, and a return from Connecticut is not convenient.
+- **Current models**, so a replacement or a second unit is still purchasable in a
+  few years.
+
+## New 24″ options with a full four-way stand
+
+All verified 2026-08-12. Every row needs **no separate mount** — the stand in the
+box does height, tilt, swivel and pivot.
+
+| Model | Panel | Refresh | Stand travel | Price | Warranty |
+|---|---|---|---|---|---|
+| [HP E24 G5](https://www.walmart.com/ip/HP-E24-G5-FHD-Monitor-23-8-FHD-1920-x-1080-50-75-Hz/2144125539) | 23.8″ 1080p IPS | 50–75 Hz | 4-way | **$99** | EOL — clearance stock, thin support |
+| [Dell P2425H](https://www.dell.com/en-us/shop/dell-pro-24-plus-monitor-p2425h/apd/210-bmgh/monitors-monitor-accessories) | 23.8″ 1080p IPS | 100 Hz | 150 mm | $184.99 (temp. out of stock at Dell) | **3 yr, advanced exchange** |
+| [Lenovo T24i-30](https://www.amazon.com/Lenovo-ThinkVision-T24i-30-23-8-Monitor/dp/B0C3943YVG) | 23.8″ 1080p IPS | 60 Hz | **155 mm** | ~$195, stock thin | 3 yr |
+| **[Dell P2425](https://www.dell.com/en-us/shop/dell-pro-24-plus-16-10-monitor-p2425/apd/210-blwx/monitors-monitor-accessories)** | **24″ 1920×1200 16:10** | 100 Hz | 150 mm | **$239.99** | **3 yr, advanced exchange** |
+
+## Recommendation: Dell P2425, $239.99
+
+The 16:10 panel is the reason. **1920×1200 is 11% more vertical space than
+1920×1080** — and vertical is the axis that matters for terminals, documents and
+long-form reading, which is what this machine does. It is also the only partial
+compensation available for dropping from three screens to one. The premium over
+the 16:9 P2425H is $55, or **$0.73 per day of use over five years**.
+
+Confirmed stand specs (Dell spec page and the P2225H/P2425H/P2425 user's guide):
+
+| | |
+|---|---|
+| Height | **150 mm** (5.9″) |
+| Tilt | −5° / +21° |
+| Swivel | −45° / +45° |
+| Pivot | −90° / +90°, either direction |
+| VESA | 100×100 mm, quick-release |
+| Panel | 24.07″ IPS, 1920×1200, 100 Hz, 300 nits, 99% sRGB, 1500:1 |
+| Ports | HDMI 1.4, DP 1.2, VGA, USB hub (USB-C downstream, data only, 15 W) |
+
+**Watch the model naming — it is a genuine trap.** In this family:
+
+- `P2425H` = 16:9, 1920×1080
+- `P2425` = **16:10, 1920×1200** ← the one to buy
+- `P2425E` = 16:10 plus USB-C 90 W PD and RJ45 Ethernet — a different, pricier SKU
+
+Read the **resolution field**, not the model number, at the point of purchase.
+
+### Buy a cable — one is not in the box
+
+The P2425 ships with a **DisplayPort-to-DisplayPort** cable and a USB A-to-B
+cable. **The ThinkPad E15 Gen 3 has no DisplayPort socket**, so the included video
+cable is useless on this laptop. Either:
+
+- **HDMI cable** (~$8) → 1920×1200 @ 60 Hz. Simplest, and fine.
+- **USB-C-to-DisplayPort cable** (~$15–20) → 1920×1200 @ 100 Hz, using the laptop's
+  DisplayPort 1.2 Alt Mode. Worth the extra few dollars to get the panel's full
+  refresh rate.
+
+The monitor's USB-C port is **downstream and data-only at 15 W** — it does not
+charge the laptop and is not a video input. The laptop's own charger still travels.
+
+### If a cheaper new option is wanted
+
+[HP E24 G5 at $99](https://www.walmart.com/ip/HP-E24-G5-FHD-Monitor-23-8-FHD-1920-x-1080-50-75-Hz/2144125539) —
+same four-way business stand, 23.8″ 1080p IPS, 99% sRGB. The caveat is that HP has
+declared it **end-of-life**, so current stock is clearance and long-term warranty
+support is limited. For a screen used 15 days a year that matters less than it
+would in a fleet, but it is the opposite of the "known-good, buy once" instinct
+that drove the decision to buy new in the first place.
+
+## The value alternative, recorded but not chosen
+
+Kept for the record, since it was the recommendation before the buy-new preference
+was stated. A **refurbished Dell P2422H** has the same class of stand for a third
+of the money — verified 2026-08-12:
 
 | Source | Condition | Price | Warranty |
 |---|---|---|---|
-| [PCLiquidations](https://www.pcliquidations.com/p139658-dell-p2422h-24-fhd) | Grade C (cosmetic only) | **$66.98** | 30-day returns |
+| [PCLiquidations](https://www.pcliquidations.com/p139658-dell-p2422h-24-fhd) | Grade C (cosmetic only) | $66.98 | 30-day returns |
 | eBay | Grade B | ~$69.99 | varies |
 | [DiscountPC](https://discountpc.com/products/dell-professional-24-p2422h-hd-monitor-grade-c) | Grade C | $89.99 | — |
-| Newegg | Refurb A | $107.99 | — |
-| [Reebelo](https://reebelo.com/collections/dell-p2422h-fhd-monitor-24-inch) | Very Good | $121.98 | **12 months** |
+| [Reebelo](https://reebelo.com/collections/dell-p2422h-fhd-monitor-24-inch) | Very Good | $121.98 | 12 months |
 
-Grades are **cosmetic only** — every unit is restored to full function — so Grade C
-at $67 is the value pick unless scuffs on a bezel would bother someone. Reebelo's
-12-month warranty is the one genuine differentiator at the top of the range, but at
-15 days of use a year it is not worth $55.
-
-**Worth a look before committing: 16:10.** The Dell **P2423** (and current-gen
-**P2425**, no `H`) are 24″ **1920×1200** WUXGA with the same P-series stand — 11%
-more vertical pixels than 1080p, which matters on a single screen doing the work of
-three. Watch the model naming: `P2425H` is 16:9 1080p while `P2425` is 16:10
-WUXGA. **Check the resolution field, not the model number.**
-
-New alternatives, if refurbished is unappealing: Lenovo ThinkVision **T24i-30** at
-~$195 (155 mm lift, the tallest stand found here, though stock was thin at that
-price on 2026-08-12), or Dell **P2425H** at 100 Hz. Both cost 2–3× the refurb for
-the same ergonomics.
-
-**Not** the Dell SE2426H route from the earlier draft: at $76 plus a $23 stand it
-lands at $99 for a tilt-only panel on an aftermarket pole, which is more money and
-a worse mount than a $67 P2422H.
+**Not** the Dell SE2426H route from the earliest draft: $76 plus a $23 stand lands
+at $99 for a tilt-only panel on an aftermarket pole — more money and a worse mount
+than either the refurbished P2422H or the $99 HP E24 G5.
 
 ## On the second location
 

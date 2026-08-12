@@ -22,17 +22,35 @@ $1–3 per day of use — too small a spread to be worth optimising for price.
 
 ## Decision
 
-**A refurbished 24″ Dell P-series (P2422H / P2419H), $67–90.**
+### Buy: Dell P2425 — 24″, 1920×1200 (16:10), 100 Hz — $239.99, new
 
-Its business-class stand gives 130 mm of height plus tilt, swivel and pivot, which
-means **no separate mount, no drilling, no clamping** — none of which were possible
-in a guest residence anyway — and it breaks down into a flat panel and a flat base
-for the cabinet between visits. Cheap enough that stranding it in Connecticut is a
-shrug.
+Bought **new and firsthand** by preference: start from a known-good unit rather than
+trust an account of a used one. At 15 days of use a year the premium over a $67
+refurbished equivalent is about $2.30 a day, and it buys a **3-year Dell warranty
+with advanced exchange** on a device that sits unattended in another country for
+eleven months at a time.
 
-Worth checking for **16:10** while shopping: the Dell P2423 / P2425 are 24″
-1920×1200 with the same stand, 11% more vertical pixels. The naming is a trap —
-`P2425H` is 16:9, `P2425` is 16:10. Read the resolution, not the model number.
+**Why 16:10:** 1920×1200 is 11% more vertical space than 1080p, and vertical is the
+axis that matters for terminals and documents. It is also the only compensation
+available for dropping from three screens to one. The premium over the 16:9 P2425H
+is $55.
+
+**No mounting hardware needed.** Its stand does **150 mm of height**, −5°/+21° tilt,
+±45° swivel and ±90° pivot — so nothing gets drilled and nothing gets clamped, which
+were both impossible in a guest residence. It ships as three unassembled pieces and
+the panel quick-releases, so it goes back into a cabinet as a flat panel plus a flat
+base.
+
+### Two things to get right at checkout
+
+1. **Read the resolution field, not the model number.** `P2425H` is 16:9 1080p;
+   `P2425` is 16:10 1920×1200; `P2425E` is a pricier USB-C/Ethernet SKU.
+2. **Buy a cable.** The box contains a DisplayPort-to-DisplayPort cable and the
+   ThinkPad E15 Gen 3 **has no DisplayPort socket**. Either an HDMI cable (~$8,
+   60 Hz) or a USB-C-to-DisplayPort cable (~$15–20, full 100 Hz).
+
+Cheaper new alternative: **HP E24 G5 at $99** — same class of four-way stand, 23.8″
+1080p, but end-of-life stock with thin warranty support.
 
 **Not** a 15.6″ panel: that size no longer exists as a desktop product, so "a cheap
 15.6″ monitor" resolves to buying a portable monitor at portable prices for a
@@ -43,11 +61,12 @@ screen that never moves. Full working in
 
 | Path | What |
 |---|---|
-| [`research/value-analysis.md`](research/value-analysis.md) | Cost per day of use, channels, and the recommendation — **start here** |
+| [`context/decisions.md`](context/decisions.md) | **Start here.** Every question that came up, its answer, and what it settled — including the ones that were reversed |
+| [`research/value-analysis.md`](research/value-analysis.md) | Cost per day of use, new vs refurbished, the shortlist and the pick |
+| [`research/mounting-approaches.md`](research/mounting-approaches.md) | Mounting permutations, how to identify a good built-in stand, and the storage answer |
 | [`context/travel-profile.md`](context/travel-profile.md) | Usage pattern and the prior-experience anecdotes that rule out carrying a monitor |
-| [`research/mounting-approaches.md`](research/mounting-approaches.md) | The four mounting permutations with prices; recommendation superseded |
-| [`context/requirements.md`](context/requirements.md) | The spec. Revised 2026-08-12; two previously "hard" constraints overturned |
-| [`context/open-questions.md`](context/open-questions.md) | Intake questions, six of seven now answered |
+| [`context/requirements.md`](context/requirements.md) | The spec as it finally stands, with the constraints that were overturned marked |
+| [`context/open-questions.md`](context/open-questions.md) | The original intake questions and their answers |
 | [`context/existing-hardware.md`](context/existing-hardware.md) | What already exists and what it can drive |
 
 ## Method

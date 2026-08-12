@@ -68,15 +68,32 @@ below either port is fine. Source: Lenovo PSREF, checked 2026-08-12.
   word "pivot". Listings that say only "tilt adjustable" are tilt-only. Price is
   not a signal — a $200 gaming SKU is often tilt-only, a $67 refurb P-series is not.
 
-## Explicitly not decided
+- **Bought new, firsthand.** Buyer preference, stated 2026-08-12: start from a
+  known-good unit rather than trust an account of a used one. This overrides the
+  pure value ranking, which favoured refurbished. The gap is ~$2.30 per day of use.
+- **Resolution: 1920×1200 16:10.** Chosen over 1080p for 11% more vertical space,
+  the axis that matters for terminals and documents, and the only compensation
+  available for going from three screens to one.
 
-Resolution — 1080p versus 1920×1200 16:10 — and it is worth a few dollars to get
-the latter. Panel technology is settled by the channel: refurbished business stock
-is overwhelmingly IPS.
+## Settled
+
+**Dell P2425** — 24″, 1920×1200, 100 Hz, IPS, 150 mm height / tilt / swivel / pivot
+stand, $239.99 new with a 3-year Dell warranty and advanced exchange.
+
+Two purchase-time checks that are easy to get wrong:
+
+1. **`P2425H` is 16:9 1080p; `P2425` is 16:10 1920×1200; `P2425E` is a pricier
+   USB-C/Ethernet SKU.** Read the resolution field, not the model number.
+2. **A video cable must be bought separately.** The box has DisplayPort-to-
+   DisplayPort and this laptop has no DisplayPort socket. HDMI (~$8, 60 Hz) or
+   USB-C-to-DisplayPort (~$15–20, full 100 Hz).
 
 Budget was never given as a number, and the analysis in
-[`research/value-analysis.md`](../research/value-analysis.md) argues it does not
-need to be: the whole viable range is $30–290, or $1–3 per day of use.
+[`research/value-analysis.md`](../research/value-analysis.md) argues it did not need
+to be: the whole viable range was $30–290, or $1–3 per day of use.
+
+The full question-and-answer trail behind all of this, including the decisions that
+were later reversed, is in [`decisions.md`](decisions.md).
 
 ## Notes to carry into research
 
