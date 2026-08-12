@@ -6,24 +6,33 @@ overloaded and this repo means the screen).
 **Public.** Findings here are meant to be readable by anyone comparing panels; no
 addresses, order numbers or account details go in this repo.
 
-## Status: spec capture
+## Status: first research round done, spec revised
 
-Nothing has been researched yet. The first job is to pin down the spec, because
-for monitors the spec decides almost everything — size, panel technology, pixel
-density and connector are all downstream of *what the screen is for* and *what
-drives it*.
+The shape of the purchase is settled: **one external monitor, bought in
+Connecticut and left there**, at a residence visited roughly annually, mounted at
+eye level so the laptop panel becomes the secondary screen.
 
-Open questions are in **[`context/open-questions.md`](context/open-questions.md)**.
-Answer them there (or in conversation) and the research follows.
+That last fact — it never moves — is what the first research round turned on.
+Portability is a feature this screen will never use, and portable panels cost
+2–4× more per square inch of display. Full working: **[`research/mounting-approaches.md`](research/mounting-approaches.md)**.
+
+**Current recommendation:** a 24–27″ desktop monitor plus, if its own stand is
+tilt-only, a ~$23 freestanding weighted-base VESA stand. Roughly $99 for a 24″
+1080p setup, $200–225 for 27″ 1440p. The one thing that reverses it is storage —
+if a 27″ panel has nowhere to live for eleven months in a house that is not
+yours, a native-VESA portable at ~$170 all in becomes the right answer instead.
+
+Two questions remain open: **budget ceiling**, and **where it is stored between
+visits**.
 
 ## Repo map
 
 | Path | What |
 |---|---|
-| [`context/open-questions.md`](context/open-questions.md) | The intake questions that steer the search — **start here** |
-| [`context/requirements.md`](context/requirements.md) | The spec, as it stands. Expected to change as research lands |
+| [`research/mounting-approaches.md`](research/mounting-approaches.md) | The four permutations, with prices and a recommendation — **start here** |
+| [`context/requirements.md`](context/requirements.md) | The spec. Revised 2026-08-12; two previously "hard" constraints overturned |
+| [`context/open-questions.md`](context/open-questions.md) | Intake questions, five of seven now answered |
 | [`context/existing-hardware.md`](context/existing-hardware.md) | What already exists and what it can drive |
-| `research/` | Candidate panels, market landscape, landed cost — created once the spec is settled |
 
 ## Method
 
