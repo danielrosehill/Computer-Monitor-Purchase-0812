@@ -139,20 +139,21 @@ STAND-V011H (~$44, 13–27″), Monoprice (up to 27″, 13.2 lb).
 
 ## Recommendation
 
-**Buy a 24″ or 27″ desktop monitor and, if its stand is tilt-only, a $23 MOUNTUP
-freestanding stand.** Roughly $99 for a 24″ 1080p setup, roughly $200–225 for a
-27″ 1440p one with the ergonomic stand included and no separate mount needed. The
-portability premium on a portable monitor buys a property this screen will never
-exercise, and it is paid in screen area — the one thing the multi-monitor
-workflow actually wants.
+**Superseded — see [`value-analysis.md`](value-analysis.md).** The hardware
+comparison above stands, but once the usage pattern was captured (~15 working days
+a year at one destination) the recommendation sharpened: buy a **refurbished 24″
+business-class monitor** whose own ergonomic stand makes the mount free, at roughly
+$70–90. The new-purchase route in this document (Dell SE2426H + MOUNTUP, $99)
+remains the answer if new and hassle-free is preferred.
 
-**The one condition that reverses this:** storage footprint. If a 27″ panel has
-nowhere to live for eleven months in a house that is not yours, that is a real
-constraint and not a technicality. In that case take approach A — a native-VESA
-portable (UPERFECT BE156BU, $139.99) plus the MOUNTUP stand ($22.99) plus an M3
-screw set, about **$170** — because a 15.6″ panel and a folding stand go in a
-drawer, and because at that point you are paying the premium for something you
-genuinely use.
+The reasoning here is unchanged: the portability premium on a portable monitor buys
+a property this screen will never exercise, and it is paid in screen area — the one
+thing the multi-monitor workflow actually wants.
+
+**The one condition that reverses it:** storage footprint. If a 24″ panel has
+nowhere to live for eleven months in a house that is not yours, take approach A — a
+native-VESA portable (UPERFECT BE156BU, $139.99) plus the MOUNTUP stand ($22.99)
+plus an M3 screw set, about **$170**.
 
 Approach B is dominated in every scenario. Do not clamp an adapter onto a
 kickstand panel.

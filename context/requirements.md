@@ -38,15 +38,32 @@ below either port is fine. Source: Lenovo PSREF, checked 2026-08-12.
 | Matte coating preferred over glossy | Text work under variable daylight | Low |
 | Screen area matters more than pixel density here | This is a second screen replacing nothing; the laptop panel supplies the sharp text | Medium — reversible |
 
+## Added 2026-08-12 from the traveller profile
+
+- **Usage intensity: ~15 working days a year**, one three-week visit, one
+  destination. See [`travel-profile.md`](travel-profile.md).
+- **Portability is worth $0** and must not be paid for, in either money or screen
+  area.
+- **Abandonment is the exit strategy.** The purchase should be cheap enough that
+  stranding it in Connecticut is a shrug, which argues against premium panels.
+- **Refurbished and used are first-class channels here**, not compromises — at 15
+  days a year the marginal value of a warranty is low.
+- **Target 24″.** 15.6″ is not a real desktop category (it resolves to a portable
+  monitor at portable prices); 19″ costs more than 24″ for a worse panel; 27″
+  triples the cost and complicates storage and an unknown guest desk.
+
 ## Explicitly not decided
 
-Size, resolution, panel technology, budget. Two facts would settle the rest:
+Resolution and panel technology — both largely settled by picking a channel, since
+refurbished business stock is overwhelmingly 1080p or 1920×1200 IPS.
 
-1. **Budget ceiling in USD.**
-2. **Where the monitor is stored between visits.** This is not a detail — it is the
-   only argument that favours a portable panel over a desktop one, and it flips the
-   recommendation on its own. See
-   [`research/mounting-approaches.md`](../research/mounting-approaches.md).
+Budget was never given as a number, but the analysis in
+[`research/value-analysis.md`](../research/value-analysis.md) argues it does not
+need to be: the whole viable range is $30–290, or $1–3 per day of use.
+
+**One question still open and it is the only one that flips the answer:** where the
+monitor is stored for the eleven months between visits. If a 24″ panel has nowhere
+to live, the small-panel route returns.
 
 ## Notes to carry into research
 
